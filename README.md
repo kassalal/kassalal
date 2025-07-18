@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abay kassa</h1>
+<h1 align="center">Hi 👋, I'm Abay kassa</h1>  
+
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/cddfe2e7-8fe0-4a64-bdc6-5782a7518b50" />
 
 # 💫 About Me:
 
